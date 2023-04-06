@@ -1,11 +1,4 @@
-/*
 
-bridgeH_new.h
-
-Autor: Alberto Zilio
-Março 2023
-
-*/
 
 #include "Arduino.h"
 #include "bridgeH_new.h"
